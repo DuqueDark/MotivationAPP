@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="vamos_comecar">Let\'s get started</string>
+    <string name="qual_o_seu_nome">What\'s your name?</string>
+    <string name="salvar">SAVE</string>
+    <string name="digite_o_nome">Enter your name!</string>
+    <string name="nova_frase">NEW PHRASE</string>
+    <string name="frase">PHRASE</string>
+    <string name="ola">Hello</string>
+</resources>
